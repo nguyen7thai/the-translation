@@ -5,6 +5,11 @@ I have something that other library in the Internet does not support:
 * Full Redux support
 * Simple Api
 
+## Installation
+```
+npm install the-translation
+```
+
 ## Getting Started
 ```
 import { createStore, combineReducers } from 'redux'
